@@ -17,7 +17,6 @@ end
 def decode(message)
   message.split("   ").map { |word| decode_word(word) }.join(" ")
 end
-# Decode of the message from the old bottle:
-morse_code = ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."
-decoded_message = decode(morse_code)
-puts decoded_message
+
+# Decode the message from the old bottle:
+morse_code = ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -...
