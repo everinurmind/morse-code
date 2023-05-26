@@ -19,4 +19,6 @@ def decode(message)
 end
 
 # Decode the message from the old bottle:
-morse_code = ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -...
+morse_code = ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -..."
+decoded_message = decode(morse_code)
+puts decoded_message
