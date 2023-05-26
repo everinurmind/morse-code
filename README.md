@@ -73,7 +73,7 @@ Clone this repository to your desired folder:
 To run the project, execute the following commands:
 
 ```sh
-  ruby decode.rb
+  ruby morse.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
