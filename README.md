@@ -65,7 +65,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:mwismann/decode_a_morse_code.git
+  git clone git@github.com:everinurmind/morse-code.git
 ```
 
 ### Usage
