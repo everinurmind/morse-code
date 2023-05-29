@@ -83,12 +83,12 @@ To run the project, execute the following commands:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Nurbol Sultanov**
+👤 **Ghulam Reza Rajabi**
 
 - GitHub: [@ghreza-crypto](https://github.com/ghreza-crypto)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ghulam-reza-rajabi-7a9aa3142/?originalSubdomain=af)
 
-👤 **Ghulam Reza Rajabi**
+👤 **Nurbol Sultanov**
 
 - GitHub: [@everinurmind](https://github.com/everinurmind)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/everinurmind)
